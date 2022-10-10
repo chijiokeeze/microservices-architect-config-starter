@@ -4,7 +4,7 @@ kristy helm change
 Helm Change
 
 this is an edit
-this is a new edit from Chijioke eze
+this is a new edit from Chijioke eze.
 lets make this a fun class.
 
 This is by Emmanuel.
